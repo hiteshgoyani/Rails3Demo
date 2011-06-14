@@ -1,0 +1,1 @@
+Rails3Demo Project will use all rails 3 features
